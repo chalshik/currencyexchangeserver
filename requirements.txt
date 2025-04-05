@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-sqlalchemy==3.0.5
+flask-cors==4.0.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
+sqlalchemy==2.0.20
+datetime==5.2 
